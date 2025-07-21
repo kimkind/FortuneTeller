@@ -1,0 +1,123 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Ask your question" : {
+
+    },
+    "Buy 100 Tokens ($0.99)" : {
+
+    },
+    "Fortune Tellers" : {
+
+    },
+    "Increase Max Tokens to 500 ($1.99)" : {
+
+    },
+    "Refresh Daily Tokens" : {
+
+    },
+    "Send" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Settings like language, volume, etc. (Placeholder)" : {
+
+    },
+    "Shop" : {
+
+    },
+    "Subscribe Monthly ($4.99/month)" : {
+
+    },
+    "Tab1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortune-telling"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "占卜"
+          }
+        }
+      }
+    },
+    "Tab2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tellers"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "占卜師"
+          }
+        }
+      }
+    },
+    "Tab3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shop"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商店"
+          }
+        }
+      }
+    },
+    "Tab4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        }
+      }
+    },
+    "Tokens left: %lld" : {
+
+    },
+    "Tokens: %lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tokens: %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Unlock ($0.99)" : {
+
+    },
+    "Unlocked" : {
+
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "Basic Teller",
+        "specialty": "General",
+        "isFree": true,
+        "imageName": "teller0"
+    },
+    {
+        "id": 1,
+        "name": "Love Expert",
+        "specialty": "Love",
+        "isFree": false,
+        "imageName": "teller1"
+    },
+    {
+        "id": 2,
+        "name": "Career Guru",
+        "specialty": "Career",
+        "isFree": false,
+        "imageName": "teller2"
+    }
+]

@@ -11,7 +11,7 @@ struct FortuneTellerApp: App {
             TabView {
                 FortuneTellerMainView()
                     .tabItem {
-                        Label(String(localized: "Tab1"), systemImage: "wand.and.stars")  // 用你嘅 Tab1 key，取 "Fortune-telling" 或 "占卜"
+                        Label(String(localized: "Tab1"), systemImage: "wand.and.stars")  // 用你嘅 Tab1 key，取 "Fortune-telling" 或 "占卜" test
                     }
                 
                 FortuneTellerListView()
